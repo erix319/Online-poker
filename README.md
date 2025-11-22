@@ -3,17 +3,21 @@ Online poker game using TypeScript and Node.js. A client-server application with
 
 ▎Installation and Running
 1. Clone the repository:
+```bash
    git clone https://github.com/erix319/poker-game.git
-   
+```   
 2. Navigate to the project directory:
+```bash
    cd poker-game
-   
+```  
 3. Install dependencies:
+```bash
    npm install
-
+```
 4. Start the server:
+```bash
    npm start
-   
+```  
 5. Open the client application and start playing!
 
 ▎Contributions
